@@ -22,8 +22,8 @@
 
 <div>
   <a href="https://github.com/leo-aguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-aguiar&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-aguiar&layout=compact&langs_count=16&theme=prussian"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-aguiar&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-aguiar&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 <div style="display: incline_block"><br>
   <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
