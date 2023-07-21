@@ -20,7 +20,7 @@
 
 🎯 Meu objetivo: impulsionar a inovação através dos dados! 🚀
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div>
   <a href="https://github.com/leo-aguiar">
