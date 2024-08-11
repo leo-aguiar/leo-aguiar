@@ -8,7 +8,7 @@ Sou da terra dos pinhões, mais conhecida como Curitiba 😄
 
 - 🚀 Atualmente trabalho como Business intelligence Analyst
 - 📚 Sigo estudando análise/ciência de dados e machine learning
-- 🧙‍♂️ Em meu tempo livre, eu gosto de jogar jogos com temática medieval e RPG
+- 🧙‍♂️ Em meu tempo livre, eu gosto de jogar jogos com temática medieval
 - 🎯 Meu objetivo: impulsionar a inovação através dos dados!
 
 ## 🛠 Linguagens e ferramentas
