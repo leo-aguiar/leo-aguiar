@@ -1,24 +1,39 @@
 ## 👋 Olá! Eu sou o Leonardo
 
-🚀 Engenheiro em transição para o mundo dos dados 📊
+Engenheiro por formação e cientista de dados por paixão, sou movido pela curiosidade e fascinado pelo poder transformador da tecnologia. Através da programação e da análise de dados, busco soluções que impactam positivamente o mundo ao nosso redor. Nesta plataforma, compartilho minhas descobertas e aprendizados, refletindo meu constante crescimento na ciência de dados.
 
-💻 Transformando linhas de código em histórias de dados 📚
+## 👩‍💻 Sobre mim
 
-🔍 Em busca dos segredos ocultos nos datasets 🕵️‍♂️
+Sou da terra dos pinhões, mais conhecida como Curitiba 😄
 
-🔮 Descobrindo novos horizontes através da análise de dados 🌌
+- 🚀 Atualmente trabalho como Business intelligence Analyst
+- 📚 Sigo estudando análise/ciência de dados e machine learning
+- 🧙‍♂️ Em meu tempo livre, eu gosto de jogar jogos com temática medieval e RPG
+- 🎯 Meu objetivo: impulsionar a inovação através dos dados!
 
-📈 Criando um futuro guiado pela ciência dos dados 🚀
+## 🛠 Linguagens e ferramentas
 
-📊 Codificando meu caminho para a era dos insights poderosos 💡
-
-🔭 Explorando o vasto universo de informações com Python e SQL 🌌
-
-⚙️ Engenheiro curioso, apaixonado por descobrir padrões e tendências 🧠
-
-🔢 Transformando dados brutos em histórias significativas 📖
-
-🎯 Meu objetivo: impulsionar a inovação através dos dados! 🚀
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
 ## 📊 Estatísticas do GitHub
 
@@ -26,17 +41,6 @@
   <a href="https://github.com/leo-aguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leo-aguiar&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-aguiar&layout=compact&langs_count=16&theme=vue-dark"/>
-</div>
-<div style="display: incline_block"><br>
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain.svg" />
 </div>
 
 ##
