@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Leonardo
 
-Engenheiro por formação e cientista de dados por paixão, sou movido pela curiosidade e fascinado pelo poder transformador da tecnologia. Através da programação e da análise de dados, busco soluções que impactam positivamente o mundo ao nosso redor. Nesta plataforma, compartilho minhas descobertas e aprendizados, refletindo meu constante crescimento na ciência de dados.
+Engenheiro por formação e cientista de dados por paixão, motivado pela curiosidade e fascinado pelo poder transformador da tecnologia. Através da programação e da análise de dados, busco soluções que impactam positivamente o mundo ao nosso redor. Nesta plataforma, compartilho minhas experiências e lições aprendidas, demonstrando meu contínuo crescimento na ciência de dados.
 
 ## 👩‍💻 Sobre mim
 
