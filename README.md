@@ -4,7 +4,7 @@ Engenheiro por formação e cientista de dados por paixão, motivado pela curios
 
 ## 👩‍💻 Sobre mim
 
-Sou da terra dos pinhões, mais conhecida como Curitiba 😄
+Sou da terra dos pinheirais, mais conhecida como Curitiba 😄
 
 - 🚀 Atualmente trabalho como Business intelligence Analyst
 - 📚 Sigo estudando análise/ciência de dados e machine learning
